@@ -10,7 +10,7 @@ Example usage...
     width="140"
     height="40"
     src="http://localhost:32069/"
-/>
+></iframe>
 ```
 
 ... obviously, replace the localhost with something else when actually using it.
